@@ -9,7 +9,9 @@ Hi this my assignment
 ## Installation
 
 ### Docker
-https://docs.docker.com/engine/install/ubuntu/
+OS: https://docs.docker.com/engine/install/ubuntu/
+
+Image on hub: [phiduy1105/juleb-test-server](https://hub.docker.com/repository/docker/phiduy1105/juleb-test-server/general)
 
 ### Node_modules and env
 ```bash
