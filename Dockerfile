@@ -10,7 +10,7 @@ CMD [ "npm", "run", "build" ]
 FROM node:lts AS node_modules
 COPY package*.json ./
 
-RUN npm install --prod
+RUN npm install
 
 FROM node:lts
 

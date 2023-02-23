@@ -1,7 +1,8 @@
 version: "3.8"
 services:
   app:
-    container_name: juleb-test-server
+    image: ${DOCKER_HUB_USERNAME}/${APP_NAME}:${APP_VER}
+    container_name: ${APP_NAME}
     restart: always
     build: .
     env_file:
