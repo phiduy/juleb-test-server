@@ -3,6 +3,8 @@ Hi this my assignment
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- [Ionic App](https://github.com/phiduy/juleb-test) app project
+- [NestJS](https://github.com/phiduy/juleb-test-server) BE project and docker
 
 ## Installation
 
